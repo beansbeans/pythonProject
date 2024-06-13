@@ -15,6 +15,8 @@ while i < len(numbers):
 #prints the value of the index from the right
 #print(names[-2])
 
+#this is a new comment that is added
+
 #i = 1
 #while i <= 5:
 #    print(i * '*')
